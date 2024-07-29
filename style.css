@@ -1,0 +1,26 @@
+body{
+
+  /* background: linear-gradient(70deg, blue, red); */
+  background-color: white;
+}
+
+iframe{
+  margin-left: 190px;
+  width: 1000px;
+  height: 650px;
+}
+h1{
+  margin-left: 100px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+h2{
+  margin-left: 1px;
+  text-align: center;
+  color: white;
+  background-image: linear-gradient(to right, red , blue, purple, rgb(153, 153, 192));
+}
+p{
+  margin-left: 200px;
+
+}
